@@ -23,4 +23,7 @@ react-star-rating
 
 After downloading and unzipping you may install the app using NPM or YARN.
 
+live version: https://restaurant-gmaps-rev.netlify.com/
+
+
 

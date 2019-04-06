@@ -1,0 +1,11 @@
+body {
+  font-family: "Archivo", sans-serif;
+}
+
+.nameList {
+  color: #000;
+}
+
+.list-group-item a:hover {
+  text-decoration: none !important;
+}

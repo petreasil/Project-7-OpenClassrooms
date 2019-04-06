@@ -23,6 +23,4 @@ react-star-rating
 
 After downloading and unzipping you may install the app using NPM or YARN.
 
-Open a console/terminal and navigate to the root folder Review
-Run the command npm install or Yarn START.
-This will cause NPM to download the requirements for app, after which the app can be launched by double clicking the index.html file also located in the folder Review.
+
